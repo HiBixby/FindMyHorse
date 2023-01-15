@@ -1,0 +1,12 @@
+name: FindMyHorse
+version: '${version}'
+main: io.github.hibxby.findmyhorse.FindMyHorse
+api-version: 1.19
+authors: [ Hey_Siri_ ]
+description: This plugin find your own horse
+commands:
+  findmyhorse:
+    description: returns location of your horse
+    aliases: [fmh,find]
+    usage: /<command>
+
